@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "Una simple aplicación Node.js para AWS App Runner",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
