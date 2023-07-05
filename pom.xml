@@ -10,9 +10,9 @@
 
   <properties>
     <sonar.host.url>http://arq9-alb-886148692.eu-west-1.elb.amazonaws.com:9000</sonar.host.url>
-    <sonar.login>sqa_fa49208812fc7e9b3b9557549981a8cac8b501b9</sonar.login>
-    <sonar.projectKey>Cinca_Data_Key</sonar.projectKey>
-    <sonar.projectName>Cinca_Data</sonar.projectName>
+    <sonar.login>sqa_2afac0f658e744841f0e726120cb5da1b64cdb7a</sonar.login>
+    <sonar.projectKey>prueba1_Key</sonar.projectKey>
+    <sonar.projectName>prueba1_Data</sonar.projectName>
     <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
     <sonar.exclusions>**/*.xml</sonar.exclusions>
     <sonar.inclusions>**/*.sql</sonar.inclusions>
