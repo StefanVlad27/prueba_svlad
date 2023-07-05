@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Cinca_Data_GroupID</groupId>
+  <artifactId>Cinca_Data_ArtifactID</artifactId>
+  <version>1.0</version>
+  <packaging>jar</packaging>
+
+  <properties>
+    <sonar.host.url>http://arq9-alb-886148692.eu-west-1.elb.amazonaws.com:9000</sonar.host.url>
+    <sonar.login>sqa_fa49208812fc7e9b3b9557549981a8cac8b501b9</sonar.login>
+    <sonar.projectKey>Cinca_Data_Key</sonar.projectKey>
+    <sonar.projectName>Cinca_Data</sonar.projectName>
+    <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
+    <sonar.exclusions>**/*.xml</sonar.exclusions>
+    <sonar.inclusions>**/*.sql</sonar.inclusions>
+  </properties>
+
+  <build>
+    <plugins>
+    </plugins>
+  </build>
+
+</project>
