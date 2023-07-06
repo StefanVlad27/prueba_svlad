@@ -11,7 +11,7 @@
   <properties>
     <sonar.projectKey>prueba1_Key</sonar.projectKey>
     <sonar.projectName>prueba1_Data</sonar.projectName>
-    <sonar.sources>prueba_svlad/Python</sonar.sources>
+    <sonar.sources>Python</sonar.sources>
     <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
     <sonar.exclusions>**/*.xml</sonar.exclusions>
     <sonar.inclusions>**/*.py</sonar.inclusions>
