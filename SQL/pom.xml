@@ -3,14 +3,14 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>prueba3_GroupID</groupId>
-  <artifactId>prueba3_ArtifactID</artifactId>
+  <groupId>prueba1_GroupID</groupId>
+  <artifactId>prueba1_ArtifactID</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
   <properties>
-    <sonar.projectKey>prueba3_Key</sonar.projectKey>
-    <sonar.projectName>prueba3_Data</sonar.projectName>
+    <sonar.projectKey>prueba2_Key</sonar.projectKey>
+    <sonar.projectName>prueba2_Data</sonar.projectName>
     <sonar.sources>.</sonar.sources>
     <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
     <sonar.exclusions>**/*.xml</sonar.exclusions>
