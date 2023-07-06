@@ -11,7 +11,7 @@
   <properties>
     <sonar.projectKey>prueba2_Key</sonar.projectKey>
     <sonar.projectName>prueba2_Data</sonar.projectName>
-    <sonar.sources>SQL</sonar.sources>
+    <sonar.sources>.</sonar.sources>
     <sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
     <sonar.exclusions>**/*.xml</sonar.exclusions>
     <sonar.inclusions>**/*.sql</sonar.inclusions>
